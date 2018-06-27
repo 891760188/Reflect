@@ -20,7 +20,7 @@ public class Test04 {
 				Object value = method.invoke(test03);
 //				Object value2 = method2.invoke(test03,null);
 				System.out.println(value);
-				System.out.println(value2);
+//				System.out.println(value2);
 				System.out.println("-------------");
 			}
 		Class clazz3 = Class.forName("ye.guo.huang.test02.Test03");
